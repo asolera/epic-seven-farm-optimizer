@@ -1,0 +1,28 @@
+{
+  "name": "epic-seven-farm-optimizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asolera/epic-seven-farm-optimizer.git"
+  },
+  "author": "",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/asolera/epic-seven-farm-optimizer/issues"
+  },
+  "homepage": "https://github.com/asolera/epic-seven-farm-optimizer#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/preset-env": "^7.13.15",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
